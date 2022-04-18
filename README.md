@@ -1,6 +1,20 @@
-### Hi there 👋
 I'm Aleksandar Stefanov.
-I'm Student at Softuni University
+I'm Student at Softuni University.
+
+<table>
+  <tr>
+    <th>Course</th>
+    <th>Link of Certificate</th>
+    <th>Grade</th>
+  </tr>
+  <tr>
+    <td>C# Fundamentals</td>
+    <td></td>
+    <td>5.91</td>
+  </tr>	
+</table>
+
+
 
 <!--
 **Sand82/Sand82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
