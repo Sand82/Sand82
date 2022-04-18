@@ -1,6 +1,5 @@
-I'm Aleksandar Stefanov.
-I'm Student at Softuni University.
-
+<h1>I'm Aleksandar Stefanov.</h1>
+<h4>I'm Student at Softuni University.</h4>
 <table>
   <tr>
     <th>Course</th>
