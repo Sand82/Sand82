@@ -1,5 +1,5 @@
 <h1>I'm Aleksandar Stefanov.</h1>
-<h4>I'm Student at Softuni University.</h4>
+<h4>I'm student at Softuni University.</h4>
 <table>
   <tr>
     <th>Course</th>
