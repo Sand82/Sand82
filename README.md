@@ -22,6 +22,26 @@ I'm Student at Softuni University.
     <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/C%23%20OOP/C%23%20OOP.jpg">View Certificate</a></td>
     <td>6.00</td>
   </tr>	
+  <tr>
+    <td>C# Web Basics</td>
+    <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/C%23%20Web%20Basics/C%23%20Web%20Basics.jpg">View Certificate</a></td>
+    <td>5.60</td>
+  </tr>	
+  <tr>
+    <td>Entity Framework Core</td>
+    <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/Entity%20Framework%20Core/Entity%20Framework%20Core.jpg">View Certificate</a></td>
+    <td>6.00</td>
+  </tr>	
+  <tr>
+    <td>JS Applications</td>
+    <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/JS%20Applications/JS%20Applications.jpg">View Certificate</a></td>
+    <td>6.00</td>
+  </tr>	
+   <tr>
+    <td>MS SQL</td>
+    <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/MS%20SQL/MS%20SQL.jpg">View Certificate</a></td>
+    <td>6.00</td>
+  </tr>	
 </table>
 
 
