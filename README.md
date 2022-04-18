@@ -17,6 +17,11 @@ I'm Student at Softuni University.
     <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/C%23%20Advanced/C%23%20Advanced.jpg">View Certificate</a></td>
     <td>5.15</td>
   </tr>	
+  <tr>
+    <td>C# OOP</td>
+    <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/C%23%20OOP/C%23%20OOP.jpg">View Certificate</a></td>
+    <td>6.00</td>
+  </tr>	
 </table>
 
 
