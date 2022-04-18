@@ -1,6 +1,6 @@
-<h1>I'm Aleksandar Stefanov.</h1>
-<h4>I'm student at Softuni University.</h4>
-<table>
+<h1 align="center">I'm Aleksandar Stefanov.</h1>
+<h4 align="center">I'm student at Softuni University.</h4>
+<table align="center">
   <tr>
     <th>Course</th>
     <th>Link of Certificate</th>
