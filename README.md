@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Aleksandar Stefanov.
+I'm Student at Softuni University
 
 <!--
 **Sand82/Sand82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
