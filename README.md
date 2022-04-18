@@ -1,12 +1,10 @@
 <h1 align="center">I'm Aleksandar Stefanov.</h1>
 <h4 align="center">I'm student at Softuni University.</h4>
+<br />
 <p align="center">
-  <img width="800" height="400" src="https://user-images.githubusercontent.com/75274983/163802497-87f63490-a289-4d5e-badb-b1fdc58c4ef1.jpg">
+  <img &nbsp;  width="800" height="400" src="https://user-images.githubusercontent.com/75274983/163802497-87f63490-a289-4d5e-badb-b1fdc58c4ef1.jpg">
 </p>
- 
-
-
-
+<br />
  
 <table align="center">
   <tr>
