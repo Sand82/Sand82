@@ -48,6 +48,11 @@
     <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/MS%20SQL/MS%20SQL.jpg">View Certificate</a></td>
     <td>6.00</td>
   </tr>	
+  <tr>
+    <td>ASP.Net core</td>
+    <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/ASP.Net%20Core/ASP.Net%20Core.jpg">View Certificate</a></td>
+    <td>6.00</td>
+  </tr>	
 </table>
 
 
