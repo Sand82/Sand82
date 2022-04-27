@@ -50,7 +50,7 @@
   </tr>	
   <tr>
     <td>ASP.Net core</td>
-    <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/MS%20SQL/MS%20SQL.jpg">View Certificate</a></td>
+    <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/ASP.NET%20Core/ASP.NET%20Core.png">View Certificate</a></td>
     <td>6.00</td>
   </tr>	
 </table>
