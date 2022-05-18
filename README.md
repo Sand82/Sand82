@@ -10,48 +10,39 @@
 <table align="center">
   <tr>
     <th>Course</th>
-    <th>Link of Certificate</th>
-    <th>Grade</th>
+    <th>Link of Certificate</th>    
   </tr>
   <tr>
     <td>C# Fundamentals</td>
-    <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/C%23%20Fundamentals/C%23%20Fundamentals.jpg">View Certificate</a></td>
-    <td>5.91</td>
+    <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/C%23%20Fundamentals/C%23%20Fundamentals.jpg">View Certificate</a></td>    
   </tr>	
   <tr>
     <td>C# Advanced</td>
-    <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/C%23%20Advanced/C%23%20Advanced.jpg">View Certificate</a></td>
-    <td>5.15</td>
+    <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/C%23%20Advanced/C%23%20Advanced.jpg">View Certificate</a></td>    
   </tr>	
   <tr>
     <td>C# OOP</td>
-    <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/C%23%20OOP/C%23%20OOP.jpg">View Certificate</a></td>
-    <td>6.00</td>
+    <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/C%23%20OOP/C%23%20OOP.jpg">View Certificate</a></td>    
   </tr>	
   <tr>
     <td>C# Web Basics</td>
-    <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/C%23%20Web%20Basics/C%23%20Web%20Basics.jpg">View Certificate</a></td>
-    <td>5.60</td>
+    <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/C%23%20Web%20Basics/C%23%20Web%20Basics.jpg">View Certificate</a></td>    
   </tr>	
   <tr>
     <td>Entity Framework Core</td>
-    <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/Entity%20Framework%20Core/Entity%20Framework%20Core.jpg">View Certificate</a></td>
-    <td>6.00</td>
+    <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/Entity%20Framework%20Core/Entity%20Framework%20Core.jpg">View Certificate</a></td>    
   </tr>	
   <tr>
     <td>JS Applications</td>
-    <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/JS%20Applications/JS%20Applications.jpg">View Certificate</a></td>
-    <td>6.00</td>
+    <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/JS%20Applications/JS%20Applications.jpg">View Certificate</a></td>    
   </tr>	
    <tr>
     <td>MS SQL</td>
-    <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/MS%20SQL/MS%20SQL.jpg">View Certificate</a></td>
-    <td>6.00</td>
+    <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/MS%20SQL/MS%20SQL.jpg">View Certificate</a></td>    
   </tr>	
   <tr>
     <td>ASP.Net core</td>
-    <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/ASP.NET%20Core/ASP.NET%20Core.png">View Certificate</a></td>
-    <td>6.00</td>
+    <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/ASP.NET%20Core/ASP.NET%20Core.png">View Certificate</a></td>    
   </tr>	
 </table>
 
