@@ -1,6 +1,7 @@
 <h2 align="center">Hi Guys :)</h1>
 <h1 align="center">I'm Aleksandar Stefanov.</h1>
 <h4 align="center">I'm student at Softuni University.</h4>
+<h5 align="center">Linked in: <a href="https://www.linkedin.com/in/aleksandar-stefanov-870998244/">Aleksandar Stefanov</a></h5>
 <br />
 <p align="center">
   <img &nbsp;  width="800" height="400" src="https://tse1.mm.bing.net/th?id=OIP.OIihj28bfxRPleZiUzj4fwHaD4&pid=Api">
