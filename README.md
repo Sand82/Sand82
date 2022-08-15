@@ -45,6 +45,10 @@
     <td>ASP.Net core</td>
     <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/ASP.NET%20Core/ASP.NET%20Core.png">View Certificate</a></td>    
   </tr>	
+   <tr>
+    <td>React JS</td>
+    <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/React%20JS/ReactJS%20-%20June%202022%20-%20Certificate.jpg">View Certificate</a></td>    
+  </tr>	
 </table>
 
 
