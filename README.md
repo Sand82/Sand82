@@ -4,7 +4,7 @@
 <h5 align="center">Linked in: <a href="https://www.linkedin.com/in/aleksandar-stefanov-870998244/">Aleksandar Stefanov</a></h5>
 <br />
 <p align="center">
-  <img &nbsp;  width="800" height="400" src="https://tse1.mm.bing.net/th?id=OIP.OIihj28bfxRPleZiUzj4fwHaD4&pid=Api">
+  
 </p>
 <br />
  
