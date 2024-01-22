@@ -48,6 +48,10 @@
     <td>Containers and Cloud</td>
     <td><a href="https://softuni.bg/certificates/details/192053/396f7775">View Certificate</a></td>    
   </tr>	
+  <tr>
+    <td>Software Engineering and DevOps</td>
+    <td><a href="https://softuni.bg/certificates/details/201576/6cce47fd">View Certificate</a></td>    
+  </tr>	
 </table>
 
 
