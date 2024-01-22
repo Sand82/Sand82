@@ -46,7 +46,7 @@
   </tr>	
   <tr>
     <td>Containers and Cloud</td>
-    <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/React%20JS/ReactJS%20-%20June%202022%20-%20Certificate.jpg](https://softuni.bg/certificates/details/192053/396f7775)">View Certificate</a></td>    
+    <td><a href="https://github.com/Sand82/Softuni/blob/main/Certificate/React%20JS/ReactJS%20-%20June%202022%20-%20Certificate.jpg">View Certificate</a></td>    
   </tr>	
 </table>
 
