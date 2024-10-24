@@ -1,3 +1,5 @@
+
+<!--
 <h2 align="center">Hi Guys :)</h1>
 <h1 align="center">I'm Aleksandar Stefanov.</h1>
 <h5 align="center">Linked in: <a href="https://www.linkedin.com/in/aleksandar-stefanov-870998244/">Aleksandar Stefanov</a></h5>
@@ -53,6 +55,32 @@
     <td><a href="https://softuni.bg/certificates/details/201576/6cce47fd">View Certificate</a></td>    
   </tr>	
 </table>
+
+<div class="Box mt-4 ">
+  <div class="Box-body p-4">
+    <div class="d-flex flex-justify-between">
+      <div class="text-mono text-small mb-3">
+        <a href="/vladislav-karamfilov/vladislav-karamfilov" class="no-underline Link--primary">vladislav-karamfilov</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
+      </div>
+
+-->
+<p dir="auto" align="center">
+  <h2 align="center">Hi Guys :)</h2>
+  <h1 align="center">I'm Aleksandar Stefanov.</h1>
+  <h5 align="center">Linked in: <a href="https://www.linkedin.com/in/aleksandar-stefanov-870998244/">Aleksandar Stefanov </a></h5>
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sand82&amp;hide=asp,smalltalk,css&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?        username=Sand82&amp;hide=asp,smalltalk,css&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff"/>
+  
+  <a align="center" href="[https://github-readme-stats.vercel.app/api/top-langs/?username=Sand82&amp;hide=asp,smalltalk,css&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff](https://github-readme-stats.vercel.app/api/top-langs/?username=Sand82&amp;hide=asp,smalltalk,css&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff)">   
+  </a>
+</div>
+  
+</p>
+<p dir="auto"><b>🔥 Github Streaks</b></p>
+<p align="center" dir="auto">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sand82" alt="GitHub Streak" /></a>
+</p>
 
 
 
