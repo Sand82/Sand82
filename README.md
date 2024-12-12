@@ -75,16 +75,14 @@
   <a align="center" href="[https://github-readme-stats.vercel.app/api/top-langs/?username=Sand82&amp;hide=asp,smalltalk,css&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff](https://github-readme-stats.vercel.app/api/top-langs/?username=Sand82&amp;hide=asp,smalltalk,css&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff)">   
   </a>
 </div>
-  
+
+  <!--
 </p>
 <p dir="auto"><b>🔥 Github Streaks</b></p>
 <p align="center" dir="auto">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sand82" alt="GitHub Streak" /></a>
 </p>
 
-
-
-<!--
 **Sand82/Sand82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
